@@ -1,4 +1,5 @@
 Hi :D
-🇵🇹
+
 I'm into:
-* C# - WinForms
+* C# 
+** WinForms;
