@@ -1,5 +1,2 @@
 Hi :D
-
-I'm into:
-* C#:
-* * WinForms;
+Hortênsia creator and dev
